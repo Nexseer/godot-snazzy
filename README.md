@@ -10,6 +10,8 @@
 
 ## 👀 Preview
 
+![图片](https://github.com/user-attachments/assets/e6d9d296-da8e-4ec4-a1cb-16850b97d94a)
+
 ## ✅ Install
 
 > ⚠️ **Important:** Configured for your actual installation location !!
@@ -44,6 +46,8 @@ git clone https://github.com/Nexseer/godot-snazzy.git "%APPDATA%\Godot\text_edit
 To change the theme, open a project in the editor, click on **Editor** in the
 top menu, then go to the **Editor Settings** then **Text Editor** -> **theme**. You should
 now be able to choose the desired theme.
+
+![图片](https://github.com/user-attachments/assets/3762a2e8-6add-4f4e-ad43-a178860aac90)
 
 ## 🔍 Reference
 
