@@ -43,3 +43,7 @@ git clone https://github.com/Nexseer/godot-snazzy.git "%APPDATA%\Godot\text_edit
 要更改主题，请在编辑器中打开项目，点击顶部菜单中的 **编辑器**，
 然后进入 **编辑器设置**，找到 **文本编辑器** -> **主题**。现在您应该
 可以选择所需的主题了。
+
+## 🔍 参考
+
+[vscode-snazzy-operator](https://github.com/aaronthomas/vscode-snazzy-operator)
